@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/walterpax/static/js/main.5cda85b5.js",
+    "static/media/ADVENTURETIME1.jpg": "/walterpax/static/media/ADVENTURETIME1.60723e22d431edba803b.jpg",
+    "static/media/HISTORIASESTRANHAS2.jpg": "/walterpax/static/media/HISTORIASESTRANHAS2.3b0cc9e65dc1a8d258f2.jpg",
+    "static/media/SLEEPYHOLLOW1.jpg": "/walterpax/static/media/SLEEPYHOLLOW1.45e571c6adde7f042789.jpg",
+    "static/media/images.jpg": "/walterpax/static/media/images.339f289eecf6f83f1de1.jpg",
+    "static/media/perfil.jpg": "/walterpax/static/media/perfil.f450a77dc31236327cee.jpg",
+    "index.html": "/walterpax/index.html",
+    "main.5cda85b5.js.map": "/walterpax/static/js/main.5cda85b5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5cda85b5.js"
+  ]
+}
